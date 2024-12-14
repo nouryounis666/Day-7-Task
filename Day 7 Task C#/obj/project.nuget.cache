@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xn78DtRkyxo=",
+  "success": true,
+  "projectFilePath": "D:\\EELU\\OneDrive - Egyptian E-Learning University\\DEPI Online\\Web developer\\C#\\Tasks\\Nour Tamer Abdelhaleem Day 7 Tasks\\Day 7 Task C#\\Day 7 Task C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEll\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DEll\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

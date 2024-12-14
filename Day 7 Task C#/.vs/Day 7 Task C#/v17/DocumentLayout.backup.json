@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EELU\\OneDrive - Egyptian E-Learning University\\DEPI Online\\Web developer\\C#\\Tasks\\Nour Tamer Abdelhaleem Day 7 Tasks\\Day 7 Task C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01931F3-0CA1-44EF-A72F-B7FFB6D216D8}|Day 7 Task C#.csproj|d:\\eelu\\onedrive - egyptian e-learning university\\depi online\\web developer\\c#\\tasks\\nour tamer abdelhaleem day 7 tasks\\day 7 task c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01931F3-0CA1-44EF-A72F-B7FFB6D216D8}|Day 7 Task C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EELU\\OneDrive - Egyptian E-Learning University\\DEPI Online\\Web developer\\C#\\Tasks\\Nour Tamer Abdelhaleem Day 7 Tasks\\Day 7 Task C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\EELU\\OneDrive - Egyptian E-Learning University\\DEPI Online\\Web developer\\C#\\Tasks\\Nour Tamer Abdelhaleem Day 7 Tasks\\Day 7 Task C#\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwGoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:21:00.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

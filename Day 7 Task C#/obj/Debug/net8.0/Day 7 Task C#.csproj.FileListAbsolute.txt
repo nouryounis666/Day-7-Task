@@ -1,0 +1,39 @@
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.exe
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.dll.config
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.deps.json
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.runtimeconfig.json
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.dll
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.pdb
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.dll
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\obj\Debug\net8.0\refint\Day 7 Task C#.dll
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.pdb
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.genruntimeconfig.cache
+C:\Users\DEll\Source\Repos\Day 7 Task\Day 7 Task C#\obj\Debug\net8.0\ref\Day 7 Task C#.dll
+C:\Users\DEll\Source\Repos\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.exe
+C:\Users\DEll\Source\Repos\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.dll.config
+C:\Users\DEll\Source\Repos\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.deps.json
+C:\Users\DEll\Source\Repos\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.runtimeconfig.json
+C:\Users\DEll\Source\Repos\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.dll
+C:\Users\DEll\Source\Repos\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.pdb
+C:\Users\DEll\Source\Repos\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEll\Source\Repos\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Source\Repos\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.dll
+C:\Users\DEll\Source\Repos\Day 7 Task C#\obj\Debug\net8.0\refint\Day 7 Task C#.dll
+C:\Users\DEll\Source\Repos\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.pdb
+C:\Users\DEll\Source\Repos\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.genruntimeconfig.cache
+C:\Users\DEll\Source\Repos\Day 7 Task C#\obj\Debug\net8.0\ref\Day 7 Task C#.dll
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.exe
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.dll.config
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.deps.json
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.runtimeconfig.json
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.dll
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\bin\Debug\net8.0\Day 7 Task C#.pdb
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.csproj.CoreCompileInputs.cache
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.dll
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\obj\Debug\net8.0\refint\Day 7 Task C#.dll
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.pdb
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\obj\Debug\net8.0\Day 7 Task C#.genruntimeconfig.cache
+D:\EELU\OneDrive - Egyptian E-Learning University\DEPI Online\Web developer\C#\Tasks\Nour Tamer Abdelhaleem Day 7 Tasks\Day 7 Task C#\obj\Debug\net8.0\ref\Day 7 Task C#.dll
